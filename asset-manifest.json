@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "./static/css/main.9cf8eaa5.css",
+    "main.js": "./static/js/main.8c59d380.js",
+    "static/js/453.07dc551e.chunk.js": "./static/js/453.07dc551e.chunk.js",
+    "static/media/vt323-latin-400-normal.woff2": "./static/media/vt323-latin-400-normal.215cd3bafbd733f2843c.woff2",
+    "static/media/vt323-latin-ext-400-normal.woff2": "./static/media/vt323-latin-ext-400-normal.245b71a0db82a4291250.woff2",
+    "static/media/vt323-latin-400-normal.woff": "./static/media/vt323-latin-400-normal.f6b0632f45d84bc09089.woff",
+    "static/media/vt323-latin-ext-400-normal.woff": "./static/media/vt323-latin-ext-400-normal.3cbc5257de6ee5f8385b.woff",
+    "static/media/vt323-vietnamese-400-normal.woff2": "./static/media/vt323-vietnamese-400-normal.c92c9b2a35a6ff3bfc18.woff2",
+    "static/media/vt323-vietnamese-400-normal.woff": "./static/media/vt323-vietnamese-400-normal.65a893535d646f2ff183.woff",
+    "index.html": "./index.html",
+    "main.9cf8eaa5.css.map": "./static/css/main.9cf8eaa5.css.map",
+    "main.8c59d380.js.map": "./static/js/main.8c59d380.js.map",
+    "453.07dc551e.chunk.js.map": "./static/js/453.07dc551e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cf8eaa5.css",
+    "static/js/main.8c59d380.js"
+  ]
+}

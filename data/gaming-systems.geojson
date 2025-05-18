@@ -1,0 +1,572 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+ {
+   "id": 1,
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [-74.006,40.7128]
+   },
+   "properties": {
+     "id": 1,
+     "gaming_system":"Magnavox Odyssey",
+     "game_name":"Table Tennis",
+     "release_date":"1972/09/01",
+     "release_location_city":"New York",
+     "author":"Ralph H. Baer @ Sanders Associates",
+     "company":"Magnavox",
+     "icon_url":"/icons/magnavox.png",
+     "icon_name": "magnavox",
+     "icon_attribution_url": "https://www.freepik.com/search#uuid=3af83582-1733-4740-86f7-1985ee0be008",
+     "icon_attribution_title": "Icon by UIcons",
+     "details_url": "https://en.wikipedia.org/wiki/Magnavox_Odyssey",
+     "image_source": "wikipedia",
+     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Magnavox-Odyssey-Console-Set.jpg/220px-Magnavox-Odyssey-Console-Set.jpg",
+     "original_price_us": 99.95,
+     "price_2024": 750,
+     "units_sold": 350000
+   }
+ },
+ {
+   "id": 2,
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [-118.2437,34.0522]
+   },
+   "properties": {
+     "id": 2,
+     "gaming_system":"Atari 2600",
+     "game_name":"Space Invaders",
+     "release_date":"1977/09/01",
+     "release_location_city":"Los Angeles",
+     "author":"Tomohiro Nishikado",
+     "company":"Atari",
+     "icon_url":"/icons/atari.png",
+     "icon_name": "atari",
+     "icon_attribution_url": "https://www.freepik.com/search",
+     "icon_attribution_title": "Icon by UIcons",
+     "details_url": "https://en.wikipedia.org/wiki/Atari_2600",
+     "image_source": "kim-sundeen",
+     "image_url": "/images/atari.JPEG",
+     "original_price_us": 189.95,
+     "price_2024": 990,
+     "units_sold": 30000000
+   }
+ },
+ {
+  "id": 23,
+  "type": "Feature",
+  "geometry": {
+     "type": "Point",
+     "coordinates":  [-72.742012, 41.762085]
+  },
+  "properties": {
+    "id": 23,
+    "gaming_system":"ColecoVision",
+    "game_name":"Nintendo's Donkey Kong",
+    "release_date":"1982/08/01",
+    "release_location_city":"West Hartford, Connecticut",
+    "author":"Eric Bromley",
+    "company":"Coleco (Connecticut Leather Company)",
+    "icon_url":"/icons/colecovision.png",
+    "icon_name": "colecovision",
+    "icon_attribution_url": "https://www.flaticon.com/free-icons/game-console",
+    "icon_attribution_title": "Game console icons created by Freepik - Flaticon",
+    "details_url": "https://en.wikipedia.org/wiki/ColecoVision",
+    "image_source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ColecoVision-wController-L.jpg/300px-ColecoVision-wController-L.jpg",
+    "original_price_us": -1,
+    "price_2024": -1,
+    "units_sold": 2000000
+  }
+},
+ {
+   "id": 3,
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [135.7681,35.0116]
+   },
+   "properties": {
+     "id": 3,
+     "gaming_system":"Nintendo Entertainment System",
+     "game_name":"Super Mario Bros.",
+     "release_date":"1983/07/15",
+     "release_location_city":"Kyoto",
+     "author":"Shigeru Miyamoto",
+     "company":"Nintendo",
+     "icon_url":"/icons/nes.png",
+     "icon_name": "nes",
+     "icon_attribution_url": "https://www.flaticon.com/free-icons/nintendo",
+     "icon_attribution_title": "Nintendo icons created by magnemizer - Flaticon",
+     "details_url": "https://en.wikipedia.org/wiki/Nintendo_Entertainment_System",
+     "image_source": "kim-sundeen",
+     "image_url": "/images/nes.JPEG",
+     "original_price_us": 179,
+     "price_2024": 520,
+     "units_sold": 61910000
+   }
+ },
+ {
+  "id": 7,
+  "type": "Feature",
+  "geometry": {
+     "type": "Point",
+     "coordinates":  [139.759455,35.682839]
+  },
+  "properties": {
+    "id": 7,
+    "gaming_system":"TurboGrafx-16",
+    "game_name":"Bonk's Adventure",
+    "release_date":"1987/10/30",
+    "release_location_city":"Tokyo",
+    "author":"Shinichi Nakamoto",
+    "company":"Hudson Soft",
+    "icon_url":"/icons/turbografix.png",
+    "icon_name": "turbografix",
+    "icon_attribution_url": "https://www.flaticon.com/free-icons/gaming",
+    "icon_attribution_title": "Gaming icons created by POD Gladiator - Flaticon",
+    "details_url": "https://en.wikipedia.org/wiki/TurboGrafx-16",
+    "image_source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/TurboGrafx16-Console-Set.jpg/250px-TurboGrafx16-Console-Set.jpg",
+    "original_price_us": -1,
+    "price_2024": -1,
+    "units_sold": 5620000
+  }
+},
+{
+  "id": 9,
+  "type": "Feature",
+  "geometry": {
+     "type": "Point",
+     "coordinates":  [139.6917,35.6895]
+  },
+  "properties": {
+    "id": 9,
+    "gaming_system":"Sega Genesis",
+    "game_name":"Sonic the Hedgehog",
+    "release_date":"1988/10/29",
+    "release_location_city":"Tokyo",
+    "author":"Yuji Naka",
+    "company":"Sega",
+    "icon_url":"/icons/sega-genesis.png",
+    "icon_name": "sega-genesis",
+    "icon_attribution_url": "https://www.flaticon.com/free-icons/gaming",
+    "icon_attribution_title": "Gaming icons created by RIkas Dzihab - Flaticon",
+    "details_url": "https://en.wikipedia.org/wiki/Sega_Genesis",
+    "image_source": "wikipedia",
+    "image_url": "/images/sega-genesis.JPEG",
+    "original_price_us": 189,
+    "price_2024": 480,
+    "units_sold": 30750000
+  }
+},
+ {
+  "id": 6,
+  "type": "Feature",
+  "geometry": {
+     "type": "Point",
+     "coordinates":  [135.7681,35.0116]
+  },
+  "properties": {
+    "id": 6,
+    "gaming_system":"Game Boy",
+    "game_name":"Tetris",
+    "release_date":"1989/04/21",
+    "release_location_city":"Japan",
+    "author":"Alexey Pajitnov",
+    "company":"Nintendo",
+    "icon_url":"/icons/gameboy.png",
+    "icon_name": "game-boy",
+    "icon_attribution_url": "https://www.flaticon.com/free-icons/joystick",
+    "icon_attribution_title": "Joystick icons created by Good Ware - Flaticon",
+    "details_url": "https://en.wikipedia.org/wiki/Game_Boy",
+    "image_source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Game-Boy-FL.png/220px-Game-Boy-FL.png",
+    "original_price_us": 89.99,
+    "price_2024": 228,
+    "units_sold": 118690000
+  }
+},
+{
+  "id": 8,
+  "type": "Feature",
+  "geometry": {
+     "type": "Point",
+     "coordinates":  [135.7681,35.0116]
+  },
+  "properties": {
+    "id": 8,
+    "gaming_system":"Super Nintendo Entertainment System",
+    "game_name":"The Legend of Zelda: A Link to the Past",
+    "release_date":"1990/11/21",
+    "release_location_city":"Kyoto",
+    "author":"Shigeru Miyamoto",
+    "company":"Nintendo",
+    "icon_url":"/icons/snes.png",
+    "icon_name": "snes",
+    "icon_attribution_url": "https://www.flaticon.com/free-icons/game-pad",
+    "icon_attribution_title": "Game pad icons created by Rmpp - Flaticon",
+    "details_url": "https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System",
+    "image_source": "kim-sundeen",
+    "image_url": "/images/snes.JPEG",
+    "original_price_us": 199,
+    "price_2024": 459.41,
+    "units_sold": 49100000
+  }
+},
+ {
+   "id": 4,
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [139.6917,35.6895]
+   },
+   "properties": {
+     "id": 4,
+     "gaming_system":"Sony PlayStation",
+     "game_name":"Final Fantasy VII",
+     "release_date":"1994/12/03",
+     "release_location_city":"Tokyo",
+     "author":"Hironobu Sakaguchi",
+     "company":"Sony",
+     "icon_url":"/icons/playstation.png",
+     "icon_name": "playstation",
+     "icon_attribution_url": "https://www.flaticon.com/free-icons/controller",
+     "icon_attribution_title": "Controller icons created by Freepik - Flaticon",
+     "details_url": "https://en.wikipedia.org/wiki/PlayStation_(console)",
+     "image_source": "kim-sundeen",
+     "image_url": "https://en.wikipedia.org/wiki/File:PlayStation-SCPH-1000-with-Controller.jpg",
+     "original_price_us": 299,
+     "price_2024": 620,
+     "units_sold": 102490000
+   }
+ },
+  {
+    "id": 11,
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [135.7681,35.0116]
+    },
+    "properties": {
+      "id": 11,
+      "gaming_system":"Nintendo 64",
+      "game_name":"Super Mario 64",
+      "release_date":"1996/06/23",
+      "release_location_city":"Kyoto",
+      "author":"Shigeru Miyamoto",
+      "company":"Nintendo",
+      "icon_url":"/icons/nes64.png",
+      "icon_name": "nes64",
+      "icon_attribution_url": "https://www.flaticon.com/free-icons/nintendo",
+      "icon_attribution_title": "Nintendo icons created by Ekros - Flaticon",
+      "details_url": "https://en.wikipedia.org/wiki/Nintendo_64",
+      "image_source": "kim-sundeen",
+      "image_url": "/images/nes64.JPEG",
+      "original_price_us": -1,
+      "price_2024": -1,
+      "units_sold": 32930000
+    }
+  },  
+   {
+    "id": 10,
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [135.7681,35.0116]
+    },
+    "properties": {
+      "id": 10,
+      "gaming_system":"Nintendo GameCube",
+      "game_name":"Metroid Prime",
+      "release_date":"2001/09/14",
+      "release_location_city":"Japan",
+      "author":"Retro Studios",
+      "company":"Nintendo",
+      "icon_url":"/icons/gamecube.png",
+      "icon_name": "gamecube",
+      "icon_attribution_url": "https://www.flaticon.com/free-icons/nintendo",
+      "icon_attribution_title": "Nintendo icons created by Freepik - Flaticon",
+      "details_url": "https://en.wikipedia.org/wiki/GameCube",
+      "image_source": "kim-sundeen",
+      "image_url": "/images/gamecube.JPEG",
+      "original_price_us": 199,
+      "price_2024": 350,
+      "units_sold": 21740000
+    }
+  },
+  {
+    "id": 5,
+    "type": "Feature",
+    "geometry": {
+     "type": "Point",
+     "coordinates":  [-122.1215,47.674]
+  },
+  "properties": {
+    "id": 13,
+    "gaming_system":"Xbox",
+    "game_name":"Halo: Combat Evolved",
+    "release_date":"2001/11/15",
+    "release_location_city":"Redmond, WA",
+    "author":"Bungie",
+    "company":"Microsoft",
+    "icon_url":"/icons/xbox.png",
+    "icon_name": "xbox",
+    "icon_attribution_url": "https://www.flaticon.com/free-icons/gamepad",
+    "icon_attribution_title": "Gamepad icons created by Smashicons - Flaticon",
+    "details_url": "https://en.wikipedia.org/wiki/Xbox_(console)",
+    "image_source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Xbox-Console-wDuke-L.jpg/250px-Xbox-Console-wDuke-L.jpg",
+    "original_price_us": 299,
+    "price_2024": 520,
+    "units_sold": 24000000
+    }
+   },
+  {
+    "id": 12,
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [-74.006,40.7128]
+    },
+    "properties": {
+      "id": 12,
+      "gaming_system":"PlayStation 2",
+      "game_name":"Grand Theft Auto: San Andreas",
+      "release_date":"2000/03/04",
+      "release_location_city":"Japan",
+      "author":"Sam Houser",
+      "company":"Sony Computer Entertainment",
+      "icon_url":"/icons/ps2.png",
+      "icon_name": "ps2",
+      "icon_attribution_url": "https://www.flaticon.com/free-icons/gaming",
+      "icon_attribution_title": "Gaming icons created by Smashicons - Flaticon",
+      "details_url": "https://en.wikipedia.org/wiki/PlayStation_2",
+      "image_source": "kim-sundeen",
+      "image_url": "/images/ps2.JPEG",
+      "original_price_us": 299,
+      "price_2024": 550,
+      "units_sold": 160000000
+    }
+  },
+  {
+    "id": 16,
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [-78.7811,35.7915]
+    },
+    "properties": {
+      "id": 16,
+      "gaming_system":"Xbox 360",
+      "game_name":"Gears of War",
+      "release_date":"2005/11/22",
+      "release_location_city":"Cary, NC",
+      "author":"Cliff Bleszinski",
+      "company":"Epic Games",
+      "icon_url":"/icons/xbox360.png",
+      "icon_name": "xbox360",
+      "icon_attribution_url": "https://www.flaticon.com/free-icons/xbox",
+      "icon_attribution_title": "Xbox icons created by Valter Bispo - Flaticon",
+      "details_url": "https://en.wikipedia.org/wiki/Xbox_360",
+      "image_source": "wikipedia",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Microsoft-Xbox-360-E-wController.jpg/85px-Microsoft-Xbox-360-E-wController.jpg",
+      "original_price_us": -1,
+      "price_2024": -1,
+      "units_sold": 84000000
+    }
+  },
+  {
+    "id": 15,
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [-118.4912,34.0195]
+    },
+    "properties": {
+      "id": 15,
+      "gaming_system":"PlayStation 3",
+      "game_name":"Uncharted: Drake's Fortune",
+      "release_date":"2007/11/19",
+      "release_location_city":"Japan",
+      "author":"Naughty Dog",
+      "company":"Sony Computer Entertainment",
+      "icon_url":"/icons/ps3.png",
+      "icon_name": "ps3",
+      "icon_attribution_url": "https://www.flaticon.com/free-icons/gamepad",
+      "icon_attribution_title": "Gamepad icons created by magnemizer - Flaticon",
+      "details_url": "https://en.wikipedia.org/wiki/PlayStation_3",
+      "image_source": "kim-sundeen",
+      "image_url": "/images/ps3.JPEG",
+      "original_price_us": 499.999,
+      "price_2024": 780,
+      "units_sold": 87400000
+    }
+  },
+  {
+    "id": 17,
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [135.7681,35.0116]
+    },
+    "properties": {
+      "id": 17,
+      "gaming_system":"Nintendo Wii",
+      "game_name":"Super Mario Galaxy",
+      "release_date":"2006/11/19",
+      "release_location_city":"Kyoto",
+      "author":"Shigeru Miyamoto",
+      "company":"Nintendo",
+      "icon_url":"/icons/wii.png",
+      "icon_name": "neswii",
+      "icon_attribution_url": "https://www.flaticon.com/free-icons/wii",
+      "icon_attribution_title": "Wii icons created by Eucalyp - Flaticon",
+      "details_url": "https://en.wikipedia.org/wiki/Wii",
+      "image_source": "kim-sundeen",
+      "image_url": "/images/wii.JPEG",
+      "original_price_us": 249.99,
+      "price_2024": 392.48,
+      "units_sold": 101630000
+    }
+  },
+  {
+    "id": 18,
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [-118.4912,34.0195]
+    },
+    "properties": {
+      "id": 18,
+      "gaming_system":"PlayStation 4",
+      "game_name":"The Last of Us Part II",
+      "release_date": "2013/11/15",
+      "release_location_city":"Santa Monica, CA",
+      "author":"Neil Druckmann",
+      "company":"Naughty Dog",
+      "icon_url":"/icons/ps4.png",
+      "icon_name": "ps4",
+      "icon_attribution_url": "https://www.flaticon.com/free-icons/ps4",
+      "icon_attribution_title": "Ps4 icons created by Freepik - Flaticon",
+      "details_url": "https://en.wikipedia.org/wiki/PlayStation_4",
+      "image_source": "kim-sundeen",
+      "image_url": "/images/ps4.JPEG",
+      "original_price_us": 399.99,
+      "price_2024": 540,
+      "units_sold": 106000000
+    }
+  },
+  {
+    "id": 19,
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [-122.1215,47.674]
+    },
+    "properties": {
+      "id": 19,
+      "gaming_system":"Xbox One",
+      "game_name":"Halo 5: Guardians",
+      "release_date":"2013/11/22",
+      "release_location_city":"Redmond, WA",
+      "author":"Tim Longo",
+      "company":"343 Industries",
+      "icon_url":"/icons/xbox-one.png",
+      "icon_name": "xbox-one",
+      "icon_attribution_url": "https://www.flaticon.com/free-icons/xbox",
+      "icon_attribution_title": "Xbox icons created by Valter Bispo - Flaticon",
+      "details_url": "https://en.wikipedia.org/wiki/Xbox_One",
+      "image_source": "wikipedia",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Xbox_One_consoles_montage.png/300px-Xbox_One_consoles_montage.png",
+      "original_price_us": 499,
+      "price_2024": 670,
+      "units_sold": 58000000
+    }
+  },
+  {
+    "id": 20,
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [135.7681,35.0116]
+    },
+    "properties": {
+      "id": 20,
+      "gaming_system":"Nintendo Switch",
+      "game_name":"150.86 million",
+      "release_date":"2017/03/03",
+      "release_location_city":"Kyoto",
+      "author":"Hidemaro Fujibayashi",
+      "company":"Nintendo",
+      "icon_url":"/icons/switch.png",
+      "icon_name": "nes-switch",
+      "icon_attribution_url": "https://www.flaticon.com/free-icons/handheld-console",
+      "icon_attribution_title": "Handheld console icons created by Freepik - Flaticon",
+      "details_url": "https://en.wikipedia.org/wiki/Nintendo_Switch",
+      "image_source": "wikipedia",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Nintendo-Switch-wJoyCons-BlRd-Standing-FL.jpg/300px-Nintendo-Switch-wJoyCons-BlRd-Standing-FL.jpg",
+      "original_price_us": 299.99,
+      "price_2024": 379.89,
+      "units_sold": 150860000
+    }
+  },
+  {
+    "id": 22,
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [-122.1215,47.674]
+    },
+    "properties": {
+      "id": 22,
+      "gaming_system":"Xbox Series X",
+      "game_name":"Forza Horizon 5",
+      "release_date":"2020/11/10",
+      "release_location_city":"Redmond, WA",
+      "author":"Mike Brown",
+      "company":"Playground Games",
+      "icon_url":"/icons/xbox-series-x.png",
+      "icon_name": "xbox-series-x",
+      "icon_attribution_url": "https://www.flaticon.com/free-icons/xbox",
+      "icon_attribution_title": "Xbox icons created by agus raharjo - Flaticon",
+      "details_url": "https://en.wikipedia.org/wiki/Xbox_Series_X_and_Series_S#Xbox_Series_X",
+      "image_source": "wikipedia",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Xbox_Series_S_with_controller.jpg/130px-Xbox_Series_S_with_controller.jpg",
+      "original_price_us": 499,
+      "price_2024": 513.97,
+      "units_sold": 28300000
+    }
+  },
+  {
+    "id": 21,
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [-118.4912,34.0195]
+    },
+    "properties": {
+      "id": 21,
+      "gaming_system":"PlayStation 5",
+      "game_name":"God of War Ragnarök",
+      "release_date":"2020/11/12",
+      "release_location_city":"Santa Monica, CA",
+      "author":"Eric Williams",
+      "company":"Santa Monica Studio",
+      "icon_url":"/icons/ps5.png",
+      "icon_name": "ps5",
+      "icon_attribution_url": "https://www.flaticon.com/free-icons/gaming",
+      "icon_attribution_title": "Gaming icons created by cobynecz - Flaticon",
+      "details_url": "https://en.wikipedia.org/wiki/PlayStation_5",
+      "image_source": "kim-sundeen",
+      "image_url": "/images/ps5.JPEG",
+      "original_price_us": 499,
+      "price_2024": 513.97,
+      "units_sold": 50000000
+    }
+  }
+]
+}
